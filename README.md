@@ -1,7 +1,6 @@
 # Portfolio-Awarded-Projects
 
-**Portfolio Project: AWS Data Analytics and Data Management for The City of Vancouver**
-# (Portfolio Project: AWS Data Analytics and Data Management for The City of Vancouver)
+# Portfolio Project: AWS Data Analytics and Data Management for The City of Vancouver #
 
 **Project Title: AWS Data Analytics Platform for Awarded Contracts in Vancouver** 
 
