@@ -86,6 +86,8 @@ CloudWatch dashboard and alarms for monitoring.<br>
 Visual representations of the analysis results.<br>
 Published data accessible on web servers.<br>
 
+<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/result.png">
+
 **Timeline:**
 The expected completion time for this project is approximately 8-10 weeks, including phases for data storage setup, governance implementation, monitoring configuration, and final analysis.
 
