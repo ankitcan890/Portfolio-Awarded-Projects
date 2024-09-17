@@ -1,8 +1,8 @@
 # Portfolio-Awarded-Projects
 
 **Portfolio Project: AWS Data Analytics and Data Management for The City of Vancouver**<br>
-Project Title: AWS Data Analytics Platform for Awarded Contracts in Vancouver
-Objective:
+**Project Title:** <h3>AWS Data Analytics Platform for Awarded Contracts in Vancouver</h3>
+**Objective:**
 The primary objective of this project is to design and implement a secure, efficient, and scalable data analytics platform using AWS services to analyze publicly awarded contracts in Vancouver. The goal includes data protection, governance, monitoring, and visualization to provide insights into the number and types of awarded contracts.
 
 Dataset:
