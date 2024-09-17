@@ -4,6 +4,8 @@
 
 **Project Title: AWS Data Analytics Platform for Awarded Contracts in Vancouver** 
 
+**Used Descriptive Analysis**
+
 **Objective:**
 
 The primary objective of this project is to design and implement a secure, efficient, and scalable data analytics platform using AWS services to analyze publicly awarded contracts in Vancouver. The goal includes data protection, governance, monitoring, and visualization to provide insights into the number and types of awarded contracts.<br>
