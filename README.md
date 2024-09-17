@@ -40,7 +40,7 @@ Use union operations to combine data from different tables.<br>
 Perform aggregation to calculate values for the specified bid types.<br>
 Store the final results in the curated folder in S3.<br>
 
-<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects//ETL-result.png">
+<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/ETL-result.png">
 
 **Data Protection:**
 
@@ -52,6 +52,7 @@ Configure default encryption for the S3 bucket to ensure data protection.<br>
 Establish data pipelines using AWS Glue.<br>
 Implement detection mechanisms to identify suspicious data using Canadian examples.<br>
 Filter data based on specific conditions and eliminate unnecessary columns for a clean dataset.<br>
+<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/governance.png">
 
 **Data Monitoring:**
 
