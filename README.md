@@ -38,6 +38,8 @@ Use union operations to combine data from different tables.<br>
 Perform aggregation to calculate values for the specified bid types.<br>
 Store the final results in the curated folder in S3.<br>
 
+<img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects//ETL-result.png">
+
 **Data Protection:**
 
 Use AWS Key Management Service (KMS) to create a symmetric key named "Project2-contracts-dataset2-ankit" for encryption and decryption.<br>
