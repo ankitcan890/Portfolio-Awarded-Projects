@@ -86,6 +86,7 @@ CloudWatch dashboard and alarms for monitoring.<br>
 Visual representations of the analysis results.<br>
 Published data accessible on web servers.<br>
 
+**Result:**
 <img src="https://ankitcan890.github.io/Portfolio-Awarded-Projects/result.png">
 
 **Timeline:**
