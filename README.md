@@ -70,6 +70,7 @@ Published data accessible on web servers.<br>
 **Timeline:**
 The expected completion time for this project is approximately 8-10 weeks, including phases for data storage setup, governance implementation, monitoring configuration, and final analysis.
 
+
 3. Data Monitoring
 AWS CloudWatch was used to monitor system performance, track resource usage, and set alarms for predefined thresholds. Custom dashboards displayed metrics such as:
 - **Estimated Charges**: Monitoring costs associated with data storage and processing.
