@@ -69,3 +69,13 @@ Visual representations of the analysis results.<br>
 Published data accessible on web servers.<br>
 **Timeline:**
 The expected completion time for this project is approximately 8-10 weeks, including phases for data storage setup, governance implementation, monitoring configuration, and final analysis.
+
+3. Data Monitoring
+AWS CloudWatch was used to monitor system performance, track resource usage, and set alarms for predefined thresholds. Custom dashboards displayed metrics such as:
+- **Estimated Charges**: Monitoring costs associated with data storage and processing.
+- **Bucket Size (in Bytes)**: Tracking the growth of the data stored in the S3 buckets over time.
+Screenshots and Visuals
+- **S3 Bucket Management and Encryption**: Demonstrates the security configurations, including encryption and replication rules.
+- **CloudTrail Logging**: Captures user actions and API requests to ensure full governance and compliance.
+- **CloudWatch Dashboard**: Highlights system health, storage costs, and monitoring details.
+
